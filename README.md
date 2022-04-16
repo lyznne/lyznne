@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lyznne
 - 👀 I’m interested in python and wed development 
 - 🌱 I’m currently learning python ,html and css , also javascript
-- 📫 How to reach me my email 
+- 📫 You can reach me through my email 
 
 <!---
 lyznne/lyznne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
