@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lyznne
-- 👀 I’m interested in python and wed development 
+- 👀 I’m interested in python and web development 
 - 🌱 I’m currently learning python ,html and css , also javascript
 - 📫 You can reach me through my email 
 
