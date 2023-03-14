@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lyznne
 - 👀 I’m interested in python and web development 
-- 🌱 I’m currently learning python ,html and css , also javascript
+- 👍 Excitated to learn new stuff :-) 
+- 🌱 I’m currently learning python ,React js , Nextjs, tailwindcss and others
 - 📫 You can reach me through my email 
 
 <!---
