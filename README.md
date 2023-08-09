@@ -1,5 +1,5 @@
 <!-- Title -->
-# 👋 Hey there, I'm lyznne! 
+## 👋 Hi there, I'm lyznne! 
 
 <!-- Introduction -->
 I'm a passionate developer exploring the realms of Python and web development. My curiosity drives me to learn and create exciting projects that push boundaries.
@@ -11,9 +11,12 @@ I'm a passionate developer exploring the realms of Python and web development. M
 
 <!-- Technologies and Tools -->
 ## 💼 Technologies & Tools
-- Python | Django
-- Frontend: React.js | Next.js | Tailwind CSS
+- Python | Django | Flask 
+- Frontend: React.js | Next.js | Tailwind CSS | html | css 
+- Backend: Python | Node.js 
+- Mobile Dev: Dart | Flutter 
 - Git | GitHub | VS Code
+
 
 <!-- Learning Journey -->
 ## 🌱 Currently Learning
@@ -21,6 +24,7 @@ I'm currently on an exciting journey, diving deep into:
 - Mastering Python
 - Crafting interactive UIs with React.js and Next.js
 - Crafting beautiful and responsive designs with Tailwind CSS
+- I started learning flutter for mobile dev
 
 <!-- Let's Connect -->
 ## 📫 Let's Connect
