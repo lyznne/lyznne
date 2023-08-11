@@ -28,7 +28,7 @@ I'm a passionate developer exploring the realms of Python and web development. M
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyznne&theme=nightowl)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyznne&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
