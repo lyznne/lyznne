@@ -22,7 +22,7 @@ I'm a passionate developer exploring the realms of Python and web development. M
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyznne&show_icons=true&theme=nightowl)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyznne&show_icons=true&theme=nightowl) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyznne&theme=nightowl)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyznne&langs_count=8&layout=compact&theme=nightowl)
 
