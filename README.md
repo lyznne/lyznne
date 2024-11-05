@@ -1,82 +1,135 @@
-<!-- Title -->
-## 👋 Hi there, I'm lyznne! 
+<!-- Title  -->
+<div align="center" >
+<img src="./assets/Programming.gif" height="300" width="300">
+</div>
 
-<!-- Introduction -->
-I'm a passionate developer exploring the realms of Python and web development. My curiosity drives me to learn and create exciting projects that push boundaries.
+<h1 align="center"> Hi There  I'm Enos !  </h1>
 
-<!-- Badges or Stats -->
-![GitHub Followers](https://img.shields.io/github/followers/lyznne?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/lyznne?label=Stars&style=social)
-![GitHub Contributions](https://img.shields.io/github/commit-activity/w/lyznne/lyznne?label=Contributions&style=social&theme=nightowl)
+
+<div align="center" >
+<img src="./assets/HEADING.png">
+</div>
+
+---
+
+<h1 align="right">
+
 [![Profile Views](https://visitcount.itsvg.in/api?id=lyznne&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
+</h1>
 
-<!-- Socials -->
-## 🌐 Socials
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enoslyznne)
+<!-- about me  -->
 
+<table>
+  <!-- Frontend Section -->
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF3A8A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techbytelinux) 
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge"/></td>
+  </tr>
 
-<!-- https://www.youtube.com/channel/ -->
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyznne&show_icons=true&theme=nightowl) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyznne&theme=nightowl)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyznne&langs_count=8&layout=compact&theme=nightowl)
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyznne&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<!-- Technologies and Tools -->
-## 💼 Technologies & Tools
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-- Frontend: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- Backend: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-- Mobile Dev: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-- Tools & Platforms: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Databases](https://img.shields.io/badge/Databases-003B57?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) 
-
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  <!-- Backend Section -->
+  <tr>
+    <th colspan="4" align="center">Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/></td>
+  </tr>
+  <tr>
 
 
 
-<!-- Learning Journey -->
-## 🌱 Currently Learning
-I'm currently on an exciting journey, diving deep into:
-- Mastering Python
-- Crafting interactive UIs with React.js and Next.js
-- Crafting beautiful and responsive designs with Tailwind CSS
-- I'm learning flutter for mobile dev
+  </tr>
+
+  <!-- APIs Section -->
+  <tr>
+    <th colspan="4" align="center">APIs</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-REST_APIs-FF6F00?logo=api&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Apollo-311C87?logo=apollographql&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-JSON_Web_Tokens-000000?logo=json-web-tokens&logoColor=white&style=for-the-badge"/></td>
+
+  </tr>
+
+  <!-- Mobile Development Section -->
+  <tr>
+    <th colspan="4" align="center">Mobile Development</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/></td>
+
+  </tr>
+
+  <!-- Tools Section -->
+  <tr>
+    <th colspan="4" align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/></td>
+  </tr>
+
+  <!-- Skills Section -->
+  <tr>
+    <th colspan="4" align="center">Skills</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Problem_Solving-FFD700?style=for-the-badge&logo=icons8&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Debugging-FF5733?style=for-the-badge&logo=icons8&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Agile_Methodology-34D058?style=for-the-badge&logo=icons8&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Project_Management-00BFFF?style=for-the-badge&logo=icons8&logoColor=white"/></td>
+  </tr>
+</table>
 
 
-<!-- Random Code Snippet -->
-## 🚀 Random Code Snippet
-```python
-def greet(name):
-    return f"Hello, {name}! Welcome to my GitHub profile."
-
-print(greet("Visitor"))
-
-```
-
-<!-- Let's Connect -->
-## 📫 Let's Connect
-Feel free to reach out to me! I'm always eager to collaborate, learn, and share.
-- Email: emuthiani26@gmail.com
-
-<!-- - LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- Portfolio: [yourportfolio.com](https://www.yourportfolio.com) -->
+   <!-- Skills Badges -->
+   <br><br>
 
 
-<!---
-lyznne/lyznne is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- tech  -->
+<!-- Footer Start -->
+<div align="center">
+    <h2>Let's Connect!</h2>
+    <p>Linux Ricing Enthusiast | Full-Stack Developer</p>
+
+   <!-- Social Links -->
+   <a href="https://github.com/lyznne">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/en_lyznne">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+
+   <!-- Skills Badges -->
+   <br><br>
+
+
+   <br><br>
+   <p>💻 <strong>Enjoy my work? Let’s collaborate!</strong></p>
+</div>
+<!-- Footer End -->
