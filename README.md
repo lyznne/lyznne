@@ -131,5 +131,15 @@
 
    <br><br>
    <p>💻 <strong>Enjoy my work? Let’s collaborate!</strong></p>
+
+
+<br><br>
+   <!-- spotify music -->
+<!-- Spotify Music -->
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6lwssbpq244gbb5rhwn95okwy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6lwssbpq244gbb5rhwn95okwy&cover_image=true&theme=novatorem&show_offline=false&background_color=022339&interchange=true&bar_color=4dbfff&bar_color_cover=true" alt="Spotify Profile" />
+  </a>
 </div>
+
 <!-- Footer End -->
